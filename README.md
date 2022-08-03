@@ -54,4 +54,4 @@ https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all
    5. For caching use https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/ or similar.
    6. For testing use:
       1. https://jestjs.io/
-      2. https://testing-library.com/docs/https://testing-library.com/docs/
+      2. https://testing-library.com/docs/
