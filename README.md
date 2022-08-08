@@ -44,6 +44,12 @@ https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all
    1. Filter component should apply selected date after "Apply" button is clicked
    2. After Navigation item is clicked, the proper component should appear in the document
 
+#### Sketches
+
+![Page 1](./Screenshot%202022-08-08%20144253.jpg)
+
+![Page 2](./Screenshot%202022-08-08%20144307.jpg)
+
 ### Assumptions
    1. Use DevExtreme library for Chart, DataGrid and DropdownBoxes with Calendars components
       1. https://js.devexpress.com/Documentation/Guide/React_Components/DevExtreme_React_Components/
